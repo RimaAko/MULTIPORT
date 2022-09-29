@@ -13,5 +13,6 @@
  - SCRIPT LISENCE: rimaako
 
 ```html
-wget https://raw.githubusercontent.com/RimaAko/MULTIPORT/main/LITE/setup.sh && chmod +x setup.sh && ./setup.sh ```
+wget https://raw.githubusercontent.com/RimaAko/MULTIPORT/main/LITE/setup.sh && chmod +x setup.sh && ./setup.sh 
+```
   
